@@ -3,11 +3,13 @@ Pneumonia Detection in Chest X-Ray Images (Classification) / Biomedical Image Pr
 
 This repository was created for the final project to be carried out within the scope of the Biomedical Image Processing course coded BENG4211.
 
-Detection of Pneumonia in Chest X-Ray Images Using Machine Learning
-Authors
-İrem Kahveci^1, Aleyna Erakcaoglu^1, İrem Eroğlu^1
+# Pneumonia Detection in Chest X-Ray Images (Classification) V.01
 
-^1 Abdullah Gül University, Department of Molecular Biology and Genetics, Kayseri – TURKEY
+
+By İrem Kahveci<sup>1</sup>, Aleyna Erakcaoğlu<sup>1</sup>, İrem Eroğlu<sup>1</sup>
+
+<sup>1</sup> Abdullah Gül University, Molecular Biology and Genetics, Kayseri – TURKEY
+- Email: irem.kahveci@agu.edu.tr
 
 Abstract
 The project aims to develop a machine learning model to detect pneumonia from chest X-ray images. Utilizing advanced image processing and classification algorithms, the model intends to provide accurate and efficient diagnosis capabilities, potentially surpassing traditional methods in both speed and reliability. This study leverages the power of machine learning within the medical imaging field to enhance diagnostic processes for pneumonia, a common yet severe respiratory condition.
