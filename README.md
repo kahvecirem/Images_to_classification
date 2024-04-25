@@ -17,7 +17,7 @@ Abstract
 The project aims to develop a machine learning model to detect pneumonia from chest X-ray images. Utilizing advanced image processing and classification algorithms, the model intends to provide accurate and efficient diagnosis capabilities, potentially surpassing traditional methods in both speed and reliability. This study leverages the power of machine learning within the medical imaging field to enhance diagnostic processes for pneumonia, a common yet severe respiratory condition.
 
 Keywords
-Machine Learning, Pneumonia Detection, Chest X-Ray, Image Classification, Health Informatics
+Image Processing, Machine learning, Pneumonia Detection, Chest X-Ray, Image Classification, Health Informatics
 
 Introduction
 Pneumonia is a significant health issue worldwide, often requiring rapid diagnosis and treatment. Current methods rely heavily on the expertise of radiologists to interpret chest X-rays, a process that can be subjective and inconsistent. The objective of this project is to automate pneumonia detection using machine learning techniques, thereby providing a tool that supports radiologists and improves diagnostic accuracy.
