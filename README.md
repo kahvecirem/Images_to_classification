@@ -1,4 +1,6 @@
 # Images_to_classification
+
+(REFERENCE STUDY: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 Pneumonia Detection in Chest X-Ray Images (Classification) / Biomedical Image Processing Final Project
 
 This repository was created for the final project to be carried out within the scope of the Biomedical Image Processing course coded BENG4211.
