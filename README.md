@@ -5,7 +5,7 @@ Pneumonia Detection in Chest X-Ray Images (Classification) / Biomedical Image Pr
 
 This repository was created for the final project to be carried out within the scope of the Biomedical Image Processing course coded BENG4211.
 
-# Pneumonia Detection in Chest X-Ray Images (Classification) V.01
+# Pneumonia Detection in Chest X-Ray Images (Classification) (COVID) V.01
 
 
 By İrem Kahveci<sup>1</sup>, Aleyna Erakcaoğlu<sup>1</sup>, İrem Eroğlu<sup>1</sup>
